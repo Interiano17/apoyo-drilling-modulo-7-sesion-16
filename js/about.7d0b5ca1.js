@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapoyo_drilling"]=self["webpackChunkapoyo_drilling"]||[]).push([[443],{3388:function(n,t,u){u.r(t),u.d(t,{default:function(){return e}});var l=function(){var n=this;n._self._c;return n._m(0)},i=[function(){var n=this,t=n._self._c;return t("div",{staticClass:"about"},[t("h1",[n._v("This is an about page")])])}],s=u(1001),a={},r=(0,s.Z)(a,l,i,!1,null,null,null),e=r.exports}}]);
+//# sourceMappingURL=about.7d0b5ca1.js.map
